@@ -62,5 +62,13 @@ flutter pub get
 # 4. Run the app
 flutter run
 ```
+## 🗺️ Roadmap
+ 
+The following features are currently in progress or planned for upcoming releases:
+ 
+- [ ] **User Registration & Login** — Email/password authentication with form validation
+- [ ] **User Profile Screen** — View and edit account details (name, email, avatar)
+- [ ] **Order History** — Per-account history of past orders with status tracking
+- [ ] **Wishlist** — Save products for later across sessions
 
 Built with ❤️ using Flutter
