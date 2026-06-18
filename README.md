@@ -15,7 +15,7 @@ A fully-featured mobile e-commerce application built with Flutter, featuring a c
 - 🏷️ **Category Chips** — Quick-filter navigation by product category
 - 🔔 **Cart Badge** — Live cart item count displayed in the app bar
 
- ## 🗂️ Project Structure
+## 🗂️ Project Structure
  
 ```
 lib/
