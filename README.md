@@ -47,6 +47,11 @@ lib/
 └── main.dart                    # App entry point & route configuration
 
 ## 🚀 Getting Started
+ 
+### Prerequisites
+ 
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) `>=3.0.0`
+- Dart `>=3.0.0`
 ### Installation
  
 ```bash
