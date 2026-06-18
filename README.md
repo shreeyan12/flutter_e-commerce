@@ -2,7 +2,7 @@
 
 # 🛍️ Flutter E-Commerce App
  
-A fully-featured mobile e-commerce application built with Flutter, featuring a clean multi-screen architecture, provider-based state management, and a polished shopping experience
+A fully-featured mobile/desktop e-commerce application built with Flutter, featuring a clean multi-screen architecture, provider-based state management, and a polished shopping experience.
 
 ## ✨ Features
  
