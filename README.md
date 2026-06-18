@@ -15,9 +15,7 @@ A fully-featured mobile e-commerce application built with Flutter, featuring a c
 - 🏷️ **Category Chips** — Quick-filter navigation by product category
 - 🔔 **Cart Badge** — Live cart item count displayed in the app bar
 
- 
-
-## 🗂️ Project Structure
+ ## 🗂️ Project Structure
  
 ```
 lib/
@@ -46,28 +44,28 @@ lib/
 │
 └── main.dart                    # App entry point & route configuration
 
-## 🚀 Getting Started
+🚀 Getting Started
  
-### Prerequisites
- 
-- [Flutter SDK](https://flutter.dev/docs/get-started/install) `>=3.0.0`
+Prerequisites 
+- [Flutter SDK] `>=3.0.0`
 - Dart `>=3.0.0`
-### Installation
+Installation
  
-```bash
-# 1. Clone the repository
+bash
+1. Clone the repository
 git clone https://github.com/your-username/flutter-ecommerce-app.git
  
-# 2. Navigate into the project
+2. Navigate into the project
 cd flutter-ecommerce-app
  
-# 3. Install dependencies
+3. Install dependencies
 flutter pub get
  
-# 4. Run the app
+4. Run the app
 flutter run
 ```
-## 🗺️ Roadmap
+
+🗺️ Roadmap
  
 The following features are currently in progress or planned for upcoming releases:
  
